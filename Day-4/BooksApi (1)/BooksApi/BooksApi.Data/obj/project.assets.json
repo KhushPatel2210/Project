@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khush\\Downloads\\BooksApi (1)\\BooksApi\\BooksApi.Data\\BooksApi.Data.csproj",
+      "projectUniqueName": "C:\\Users\\khush\\OneDrive\\Desktop\\Project@Tatvasoft\\Day-4\\BooksApi (1)\\BooksApi\\BooksApi.Data\\BooksApi.Data.csproj",
       "projectName": "BooksApi.Data",
-      "projectPath": "C:\\Users\\khush\\Downloads\\BooksApi (1)\\BooksApi\\BooksApi.Data\\BooksApi.Data.csproj",
+      "projectPath": "C:\\Users\\khush\\OneDrive\\Desktop\\Project@Tatvasoft\\Day-4\\BooksApi (1)\\BooksApi\\BooksApi.Data\\BooksApi.Data.csproj",
       "packagesPath": "C:\\Users\\khush\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khush\\Downloads\\BooksApi (1)\\BooksApi\\BooksApi.Data\\obj\\",
+      "outputPath": "C:\\Users\\khush\\OneDrive\\Desktop\\Project@Tatvasoft\\Day-4\\BooksApi (1)\\BooksApi\\BooksApi.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

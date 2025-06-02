@@ -9,3 +9,15 @@ C:\Users\khush\Downloads\BooksApi (1)\BooksApi\BooksApi.Data\obj\Debug\net8.0\Bo
 C:\Users\khush\Downloads\BooksApi (1)\BooksApi\BooksApi.Data\obj\Debug\net8.0\refint\BooksApi.Data.dll
 C:\Users\khush\Downloads\BooksApi (1)\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.pdb
 C:\Users\khush\Downloads\BooksApi (1)\BooksApi\BooksApi.Data\obj\Debug\net8.0\ref\BooksApi.Data.dll
+C:\Users\khush\OneDrive\Desktop\Project@Tatvasoft\Day-4\BooksApi (1)\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.deps.json
+C:\Users\khush\OneDrive\Desktop\Project@Tatvasoft\Day-4\BooksApi (1)\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.dll
+C:\Users\khush\OneDrive\Desktop\Project@Tatvasoft\Day-4\BooksApi (1)\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.pdb
+C:\Users\khush\OneDrive\Desktop\Project@Tatvasoft\Day-4\BooksApi (1)\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khush\OneDrive\Desktop\Project@Tatvasoft\Day-4\BooksApi (1)\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfoInputs.cache
+C:\Users\khush\OneDrive\Desktop\Project@Tatvasoft\Day-4\BooksApi (1)\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfo.cs
+C:\Users\khush\OneDrive\Desktop\Project@Tatvasoft\Day-4\BooksApi (1)\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\khush\OneDrive\Desktop\Project@Tatvasoft\Day-4\BooksApi (1)\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.sourcelink.json
+C:\Users\khush\OneDrive\Desktop\Project@Tatvasoft\Day-4\BooksApi (1)\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.dll
+C:\Users\khush\OneDrive\Desktop\Project@Tatvasoft\Day-4\BooksApi (1)\BooksApi\BooksApi.Data\obj\Debug\net8.0\refint\BooksApi.Data.dll
+C:\Users\khush\OneDrive\Desktop\Project@Tatvasoft\Day-4\BooksApi (1)\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.pdb
+C:\Users\khush\OneDrive\Desktop\Project@Tatvasoft\Day-4\BooksApi (1)\BooksApi\BooksApi.Data\obj\Debug\net8.0\ref\BooksApi.Data.dll

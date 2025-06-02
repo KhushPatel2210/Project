@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BooksApi.Entities",
+    "\\BooksApi.Entities\\Entities"
   ],
   "SelectedNode": "\\BooksApi.sln",
   "PreviewInSolutionExplorer": false
